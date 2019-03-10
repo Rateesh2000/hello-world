@@ -1,4 +1,8 @@
-# hello-world
-
-Hi I'm Rateesh.
-I'm a member of the satellite team at IIT Bombay. We are currently working on a satellite named Advitiy
+// hello-world
+#include<iostream>
+  using namespace std;
+  int main
+  {
+    cout<<"Hello World";
+    return 0;
+  }
